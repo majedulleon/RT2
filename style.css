@@ -1,9 +1,11 @@
-@import url('https://fonts.googleapis.com/css2?family=Chivo+Mono&family=Hanken+Grotesk&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Chivo+Mono&family=Hanken+Grotesk&family=Open+Sans:wght@700&display=swap');
+
 
 * {
     box-sizing: border-box;
     font-family: 'Chivo Mono', monospace;
     font-family: 'Hanken Grotesk', sans-serif;
+
 }
 
 .center {
@@ -48,12 +50,14 @@
 }
 
 #pro {
+    font-family: 'Open Sans', sans-serif;
     text-align: center;
     color: #000000;
     /* font-size: 28px; */
 }
 
 #pro1 {
+    font-family: 'Open Sans', sans-serif;
     padding-left: 550px;
     padding-right: 300px;
     color: #000000;
